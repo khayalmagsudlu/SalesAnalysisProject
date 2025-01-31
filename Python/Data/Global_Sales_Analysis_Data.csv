@@ -1,0 +1,201 @@
+sale_id,sale_date,customer_name,customer_id,product_name,product_id,category,quantity,cost_price,price,total_price,profit,discount,payment_method,return_status,region,sales_channel
+1,2023-01-02,Brenda Williams,4304,Keyboard,f9ba8848-21e7-49be-93c0-8138bc675698,Electronics,9,386.24,715.21,6436.89,2960.73,1240.01,PayPal,Not Returned,Brazil,Retail Store
+2,2022-03-05,Jessica Lewis,6858,Coffee,1a2ff9fa-b05d-4391-9bbd-d6fca45be15c,Groceries,2,469.17,906.63,1813.26,874.92,437.93,PayPal,Not Returned,Canada,Online
+3,2021-08-16,Sara Cohen,8514,Historical Novel,5f4c6ea7-a29b-4a77-b169-3a15daccfbcd,Books,13,312.28,401.88,5224.44,1164.8,760.92,Debit Card,Not Returned,India,Online
+4,2024-10-14,Gina Little,4741,Board Game,5dacdd5a-143e-4320-8cb6-ab5c36cdb8f0,Toys,8,390.28,607.9,4863.2,1740.96,997.95,PayPal,Not Returned,South Africa,Retail Store
+5,2024-08-24,Sara Cohen,8244,Smartphone,c679619f-fc21-4899-ac3b-452ddce09caf,Electronics,13,181.23,237.45,3086.85,730.86,235.45,PayPal,Not Returned,Japan,Retail Store
+6,2021-10-15,Jessica Lewis,8690,Camera,374c412b-ceac-48e9-9b53-1bc969faa4da,Electronics,19,315.28,608.8,11567.2,5576.88,2735.19,PayPal,Returned,Brazil,Online
+7,2020-02-22,Phillip Brooks,6666,Fantasy Series,cefbd88e-fb51-450c-b7b8-4490c890a967,Books,17,410.52,645.2,10968.4,3989.56,2153.76,Cash,Not Returned,Italy,Retail Store
+8,2020-12-20,Daniel Barrett,4166,Cheese,049e7b73-7129-424a-8558-c495b3a87090,Groceries,10,198.16,256.76,2567.6,586.0,734.23,Bank Transfer,Not Returned,USA,Online
+9,2023-08-06,Desiree Moore,7018,Yo-Yo,d85a0f86-3526-4ee8-b085-92e9452266ac,Toys,16,270.06,482.08,7713.28,3392.32,1787.09,Credit Card,Not Returned,USA,Online
+10,2023-01-09,Sara Cohen,6633,Raincoat,9417945f-5966-4e9f-87c6-28898b7cf99d,Clothing,10,203.93,394.19,3941.9,1902.6,1007.31,Bank Transfer,Not Returned,Canada,Retail Store
+11,2021-01-22,James Proctor,7416,Bookshelf,cd11b7fc-5f72-4f03-9314-727c0a93f134,Furniture,4,259.82,486.11,1944.44,905.16,123.81,Cash,Returned,Japan,Online
+12,2023-08-05,Sara Cohen,9243,Dining Set,b12feb0b-835e-46fd-9cd0-36ea7c61fe90,Furniture,4,48.36,80.05,320.2,126.76,25.54,Cash,Returned,Germany,Retail Store
+13,2024-06-01,Jacob Washington,3110,Doll,2a949723-56b5-484f-8051-ab3de4a65136,Toys,14,214.45,315.0,4410.0,1407.7,967.21,Debit Card,Returned,South Africa,Online
+14,2023-01-08,Wanda Jackson,4192,Camera,be862113-6d6e-4b06-8e65-d75fea28a8e5,Electronics,13,179.11,282.92,3677.96,1349.53,626.94,Cash,Returned,Germany,Online
+15,2020-02-08,Jacob Washington,2779,Raincoat,2b4df084-79aa-4396-96eb-6f20bab5ff43,Clothing,17,175.75,305.79,5198.43,2210.68,1167.19,Cash,Not Returned,USA,Retail Store
+16,2023-04-16,Tina Mccoy,5476,Bed,a423aa6f-3fbe-4f99-bf8e-f1f6b0bee62b,Furniture,18,464.54,759.14,13664.52,5302.8,1604.66,Bank Transfer,Returned,Japan,Retail Store
+17,2022-11-28,Sara Cohen,1701,Cap,37368606-03a5-4f2f-a8ad-1e1e9c4efa57,Clothing,16,168.58,336.16,5378.56,2681.28,1596.98,PayPal,Not Returned,Brazil,Online
+18,2021-04-08,Sara Cohen,8896,Juice,f76327ae-4e93-4591-bad7-01e6c5d1fa8e,Groceries,11,493.53,891.83,9810.13,4381.3,2631.57,Debit Card,Returned,Brazil,Retail Store
+19,2022-08-28,Joshua Gray,2739,Cereal,7aeb3e08-9274-4300-84f0-9b672144bd7a,Groceries,5,187.39,307.7,1538.5,601.55,371.96,Bank Transfer,Returned,Italy,Retail Store
+20,2021-09-28,Harold Mason,7311,Toy Train,b9feba57-953a-476c-b5db-a0194b0f6568,Toys,8,471.88,838.05,6704.4,2929.36,438.5,Debit Card,Not Returned,India,Online
+21,2022-01-18,Jessica Miles,3763,Stool,34875752-a81a-4ad6-a45b-708330003a59,Furniture,3,53.2,97.81,293.43,133.83,56.97,PayPal,Returned,Germany,Retail Store
+22,2020-12-26,Jennifer Ryan,4326,Playset,514e1913-3f82-4823-a592-15fedf67f2f9,Toys,2,462.56,608.09,1216.18,291.06,74.26,Debit Card,Returned,Italy,Retail Store
+23,2021-10-12,James Proctor,2644,Wardrobe,549e82a6-178f-4858-929f-c59cc8a945de,Furniture,2,283.93,475.16,950.32,382.46,37.01,PayPal,Returned,France,Online
+24,2020-10-10,Sara Cohen,1860,Building Blocks,2d0c6002-cb7f-4628-8a73-0928992b7005,Toys,6,64.76,99.39,596.34,207.78,144.91,Cash,Returned,Australia,Online
+25,2024-07-21,Valerie Brooks,6794,Coffee Maker,6a6a8f05-2065-436d-a64c-dfb8ccdab7d5,Home Appliances,2,243.71,408.25,816.5,329.08,111.67,Debit Card,Returned,South Africa,Online
+26,2024-06-19,Sara Cohen,4365,Laptop,11e5648b-5af4-45cc-9465-160492be79ba,Electronics,3,45.88,62.56,187.68,50.04,13.59,Debit Card,Returned,South Africa,Retail Store
+27,2021-11-08,Gary Petersen,2766,Desk,196019ba-5859-47ea-a7e8-2fae08c1ce87,Furniture,9,139.55,270.27,2432.43,1176.48,273.11,Credit Card,Not Returned,Brazil,Retail Store
+28,2021-09-11,Harold Mason,5623,Vacuum Cleaner,852ecaa6-91f4-466f-8eec-1fdb8d1cbd47,Home Appliances,13,261.82,374.87,4873.31,1469.65,499.23,Bank Transfer,Returned,Brazil,Online
+29,2020-04-01,Jasmin Thomas,1002,Desk,cfa7889c-fb2b-4909-8d7e-48c692824e23,Furniture,18,373.89,730.04,13140.72,6410.7,3629.92,Cash,Returned,South Africa,Online
+30,2020-05-10,Joseph Thompson,7946,Laptop,657b6308-9561-444c-975b-66471fde869b,Electronics,16,148.91,258.47,4135.52,1752.96,11.57,Credit Card,Not Returned,Brazil,Online
+31,2023-11-06,Gary Petersen,9120,Building Blocks,75513b93-4df4-4833-93ef-bb4f403f98d7,Toys,2,167.03,261.08,522.16,188.1,4.29,Cash,Not Returned,Italy,Retail Store
+32,2024-10-28,Gary Petersen,4010,Bread,7d48aab9-b6f7-4f90-a157-d39a705c9a42,Groceries,19,158.63,232.51,4417.69,1403.72,429.48,Bank Transfer,Not Returned,South Africa,Retail Store
+33,2023-01-15,Desiree Moore,3467,T-Shirt,583b5fcc-18e8-438e-a736-a72870d46efa,Clothing,16,68.68,103.03,1648.48,549.6,109.16,Bank Transfer,Returned,India,Online
+34,2020-07-19,Sara Cohen,2777,Mystery Novel,e15687c2-a10f-4b3c-abb2-21338808d425,Books,19,30.24,46.08,875.52,300.96,199.39,Debit Card,Returned,USA,Retail Store
+35,2020-09-17,Mallory Johnson,9480,Self-Help Book,6245b052-a267-48a3-b729-28f11abb56f1,Books,3,435.34,730.95,2192.85,886.83,533.89,Credit Card,Returned,USA,Online
+36,2022-02-11,Mallory Johnson,5782,Eggs,238d3db3-75af-4225-bb02-219c33bee4d0,Groceries,3,223.39,352.25,1056.75,386.58,27.84,Cash,Returned,India,Online
+37,2021-01-18,Brenda Williams,4798,Cereal,f72b40d1-97a4-436b-930b-0230c7ed69eb,Groceries,6,319.71,439.44,2636.64,718.38,63.36,Credit Card,Not Returned,USA,Retail Store
+38,2022-03-04,James Proctor,8193,Coffee,74b01439-1013-486d-b246-5db81f6d6e2f,Groceries,11,220.11,367.52,4042.72,1621.51,1086.31,Bank Transfer,Returned,Canada,Online
+39,2023-02-26,Alexandra Woods,9740,Washing Machine,60f7dfb2-2416-47ef-92ca-63fefba5dc80,Home Appliances,7,280.22,437.77,3064.39,1102.85,175.35,Bank Transfer,Returned,Australia,Retail Store
+40,2021-12-13,Gary Petersen,9531,Chair,93982d61-2c38-46e3-9470-5f692e31962a,Furniture,9,221.71,273.71,2463.39,468.0,520.36,PayPal,Not Returned,France,Online
+41,2022-08-13,Jessica Miles,2870,Dining Set,74d1f41c-4fcd-4b7b-97bf-b26918ac3077,Furniture,18,355.28,477.88,8601.84,2206.8,809.78,PayPal,Returned,Canada,Online
+42,2022-07-03,Jessica Lewis,6734,Bookshelf,94dbf128-e179-4354-9e68-6f9434450b84,Furniture,13,118.44,189.82,2467.66,927.94,353.18,PayPal,Returned,Brazil,Online
+43,2023-03-19,Kelly Ryan,2891,Cereal,dec94462-85b8-496f-89f5-ee1c8fb894db,Groceries,19,396.3,774.55,14716.45,7186.75,602.78,Cash,Returned,Japan,Retail Store
+44,2020-02-03,Joseph Thompson,6720,Jeans,67c2c211-423f-4d77-85d6-91c3b10dc5b2,Clothing,13,175.31,335.99,4367.87,2088.84,992.94,Credit Card,Returned,Japan,Retail Store
+45,2020-05-05,Jennifer George,3445,Washing Machine,314601a1-da03-46e8-ad64-7e97b5c4fbdc,Home Appliances,12,174.56,348.45,4181.4,2086.68,511.11,Bank Transfer,Returned,Italy,Retail Store
+46,2022-04-10,Jacob Washington,1556,Toaster,721b3386-fbd5-4607-9359-2f48fcd80bd5,Home Appliances,8,106.8,169.8,1358.4,504.0,1.2,PayPal,Not Returned,India,Online
+47,2023-09-27,Margaret Colon,4827,Dining Set,ea729e5d-d5cd-4f3f-9eb6-948026f1603d,Furniture,15,131.09,212.8,3192.0,1225.65,501.21,Bank Transfer,Not Returned,Australia,Online
+48,2020-07-25,Gary Petersen,2143,Milk,7bc9f57d-11d9-4fe1-b1d4-ae5f3fbb0b97,Groceries,7,424.95,817.08,5719.56,2744.91,752.26,Debit Card,Not Returned,Italy,Retail Store
+49,2023-10-07,Emily Rice,1357,Science Textbook,68520252-9f13-4da1-929c-6c9631b3cc7b,Books,2,75.16,100.11,200.22,49.9,15.22,Bank Transfer,Not Returned,Germany,Online
+50,2023-06-25,Joseph Thompson,7726,Raincoat,457ce374-7600-4549-866f-09d00e323043,Clothing,9,459.68,724.55,6520.95,2383.83,181.38,Debit Card,Returned,Canada,Retail Store
+51,2024-07-23,Nicole Jones DDS,8616,Cap,8b71a6e1-079e-43bc-aee5-64b8da270ada,Clothing,17,153.96,295.36,5021.12,2403.8,1215.03,Bank Transfer,Not Returned,France,Online
+52,2023-07-24,Joseph Thompson,6863,Laptop,138f2e9c-893c-4011-8cd2-b821294439a5,Electronics,10,401.01,759.16,7591.6,3581.5,1670.45,Cash,Not Returned,Brazil,Retail Store
+53,2021-10-08,Daniel Barrett,7909,Vacuum Cleaner,70d1c4a4-d97b-4563-ad40-4504d1d28b65,Home Appliances,16,53.86,81.14,1298.24,436.48,158.91,Cash,Returned,Canada,Retail Store
+54,2021-01-17,Gary Petersen,3759,Dining Set,6dd68868-ddf6-4136-974e-e612e4f9510c,Furniture,1,472.66,651.32,651.32,178.66,47.44,Credit Card,Returned,France,Online
+55,2022-04-19,Alexandra Woods,4616,Toy Train,76e0b8f6-bb35-42a2-954a-b90a55d3c21b,Toys,8,128.47,220.35,1762.8,735.04,140.04,Debit Card,Not Returned,Brazil,Online
+56,2020-01-15,Joshua Gray,1011,Milk,df4a8f67-5922-4d7b-8a1e-5e2381233551,Groceries,15,77.4,127.99,1919.85,758.85,479.34,Debit Card,Not Returned,Japan,Retail Store
+57,2021-07-07,Joseph Thompson,2299,Board Game,c129f1a4-2e2a-4158-9955-d0306081a3b7,Toys,14,106.36,200.67,2809.38,1320.34,272.32,Cash,Not Returned,Italy,Retail Store
+58,2023-01-09,Joseph Thompson,3087,Dining Set,20dbd8f5-ca82-4f0e-975d-167e3dc8c45a,Furniture,19,398.44,539.86,10257.34,2686.98,2411.23,PayPal,Not Returned,France,Online
+59,2024-04-14,Phillip Brooks,8354,Smartwatch,0f576c7e-3c0b-4ede-ab86-5863286d274f,Electronics,14,160.16,217.52,3045.28,803.04,542.27,Cash,Not Returned,Australia,Retail Store
+60,2024-03-20,Nicole Jones DDS,6911,Chair,1578a187-5153-44cf-a912-617e94ab1d16,Furniture,11,267.5,398.15,4379.65,1437.15,169.01,Debit Card,Returned,Brazil,Retail Store
+61,2024-12-17,Margaret Colon,7751,Comic Book,2de31356-f9e5-4e5d-adcd-98118582a6aa,Books,5,108.88,166.66,833.3,288.9,13.98,Bank Transfer,Returned,Australia,Online
+62,2022-08-26,Gary Petersen,8994,Camera,ee3ab2d3-75d9-466b-9286-c51c4e489d76,Electronics,7,438.8,543.54,3804.78,733.18,351.69,Bank Transfer,Returned,Germany,Retail Store
+63,2021-12-23,Emily Rice,2918,Refrigerator,d5697895-c455-4e79-9108-8103b70f70f0,Home Appliances,11,191.37,282.78,3110.58,1005.51,779.56,PayPal,Not Returned,Japan,Online
+64,2021-04-09,Patricia Smith,2659,Blender,17e74864-3da8-4aef-ae53-483361deed4e,Home Appliances,10,336.64,412.01,4120.1,753.7,1199.19,Cash,Not Returned,USA,Online
+65,2020-05-03,Jennifer George,5282,Cap,de3385ed-d3c6-485b-84fe-df7bac8a7685,Clothing,5,446.84,813.94,4069.7,1835.5,894.31,Cash,Not Returned,USA,Retail Store
+66,2023-09-08,Jessica Miles,7861,Chair,6e5d9880-da2b-4870-81f8-57f43654e113,Furniture,10,25.76,40.85,408.5,150.9,80.62,Debit Card,Returned,USA,Retail Store
+67,2024-03-06,Emily Rice,3134,Science Textbook,0238cb51-500b-4cd8-a19d-79e655222d8c,Books,9,369.26,614.46,5530.14,2206.8,185.91,PayPal,Returned,Australia,Retail Store
+68,2024-02-14,Joseph Thompson,8196,Bookshelf,b0aa0674-4986-4e23-8a17-4f1bd6e06eae,Furniture,12,125.97,194.62,2335.44,823.8,666.69,Bank Transfer,Returned,India,Online
+69,2024-03-04,Gary Petersen,5719,Heater,e7f6ed18-4d3f-4121-b6e6-3da9477ade71,Home Appliances,10,141.49,253.29,2532.9,1118.0,382.1,PayPal,Not Returned,South Africa,Online
+70,2020-08-28,Jessica Lewis,2634,Vacuum Cleaner,51169129-4901-4b4e-a417-a98df80a4921,Home Appliances,4,283.5,362.77,1451.08,317.08,0.4,Debit Card,Not Returned,Japan,Online
+71,2021-11-02,Emily Rice,5458,Eggs,cfe93f53-7864-42d2-9f4f-37e58c0816db,Groceries,12,374.47,613.14,7357.68,2864.04,388.36,Bank Transfer,Returned,Brazil,Retail Store
+72,2022-12-11,Sara Cohen,7727,Playset,d906f611-a538-4319-a0d5-6fcc5aeb204c,Toys,3,464.44,586.56,1759.68,366.36,141.96,PayPal,Not Returned,Italy,Retail Store
+73,2024-10-15,Tina Mccoy,2287,Bookshelf,b14cc398-3694-460d-bc70-3dec0831f522,Furniture,9,485.73,891.17,8020.53,3648.96,1927.91,Bank Transfer,Not Returned,South Africa,Retail Store
+74,2023-02-19,Jennifer George,9746,Self-Help Book,5df6913e-8998-4d1a-b85f-b5acb95099f9,Books,7,90.55,155.17,1086.19,452.34,321.56,Credit Card,Not Returned,South Africa,Retail Store
+75,2023-04-06,Valerie Brooks,9961,Action Figure,9f1c37c6-558e-41f4-97fb-2719472173e8,Toys,15,171.17,279.22,4188.3,1620.75,522.93,Debit Card,Not Returned,India,Online
+76,2024-07-14,Emily Rice,1685,Microwave,f216e406-b2d9-4766-a882-07625f80c474,Home Appliances,5,318.58,516.9,2584.5,991.6,590.57,Debit Card,Returned,Australia,Retail Store
+77,2022-04-18,Margaret Colon,3297,Building Blocks,9fc4920e-de43-4469-84ee-d473e94bbbf4,Toys,20,372.56,471.32,9426.4,1975.2,586.31,Cash,Returned,South Africa,Retail Store
+78,2020-12-25,Ryan Anderson,4477,Cheese,044a83c0-97c3-4a8a-91ac-45f962ba2c36,Groceries,14,314.62,607.42,8503.88,4099.2,1149.07,Cash,Not Returned,Australia,Online
+79,2021-04-15,Harold Mason,4436,Jeans,fe1b08ca-8c00-4e94-a27d-fb243a8d9b6c,Clothing,7,186.68,265.64,1859.48,552.72,500.63,Credit Card,Returned,South Africa,Online
+80,2020-01-08,Jennifer Ryan,1647,Washing Machine,921fc262-8d63-4ba7-90cf-fbba35b2a851,Home Appliances,7,461.19,895.6,6269.2,3040.87,1615.23,Cash,Not Returned,Australia,Online
+81,2021-06-27,Daniel Barrett,9758,Yo-Yo,04a4ea5b-46cd-4d46-b403-f6c7b0f3c455,Toys,16,203.05,281.52,4504.32,1255.52,443.69,Debit Card,Not Returned,India,Online
+82,2022-01-04,Nicole Jones DDS,4017,Stool,ea87387f-cd03-4c71-952a-4bd9fdc2c9e3,Furniture,20,176.18,335.04,6700.8,3177.2,449.85,Debit Card,Returned,Germany,Retail Store
+83,2020-10-25,Alexandra Woods,9477,Playset,f85b7a94-210c-4a95-b340-ae3ed9c4fd46,Toys,10,173.85,244.68,2446.8,708.3,181.36,Bank Transfer,Returned,Germany,Retail Store
+84,2020-10-17,James Proctor,6263,Heater,07b69d05-0d64-48d8-93f8-7fd13dbb8007,Home Appliances,6,159.39,246.24,1477.44,521.1,165.94,PayPal,Returned,Italy,Retail Store
+85,2020-11-05,Tina Mccoy,2894,Heater,ce646f64-2a55-4230-a11b-2328f5a3dfa5,Home Appliances,15,254.54,487.23,7308.45,3490.35,1574.02,Bank Transfer,Returned,Australia,Retail Store
+86,2023-10-06,Jacob Washington,6480,Yo-Yo,570627d1-8519-4d06-9efb-a7925ec9e368,Toys,9,253.49,361.52,3253.68,972.27,160.67,Credit Card,Not Returned,Japan,Retail Store
+87,2021-11-10,Joshua Gray,8967,Chair,04d89fa3-ab0e-4ea3-b09d-909e84a80b9b,Furniture,7,378.1,724.24,5069.68,2422.98,977.94,Credit Card,Returned,Australia,Retail Store
+88,2024-07-10,Daniel Barrett,3672,Camera,6b8539c4-8972-42da-afe1-d40c2e9d4fa8,Electronics,15,289.51,504.23,7563.45,3220.8,753.63,Credit Card,Returned,Canada,Online
+89,2024-09-28,Sara Cohen,3623,Wardrobe,1b39c30a-ee1c-4974-9770-f9083a1bebbb,Furniture,7,160.24,211.29,1479.03,357.35,210.52,Credit Card,Returned,Italy,Retail Store
+90,2024-05-14,Daniel Barrett,1496,Sneakers,617c0a35-be89-49d6-9c0e-e206e1aae439,Clothing,8,69.58,117.97,943.76,387.12,150.56,Cash,Not Returned,Japan,Retail Store
+91,2024-08-11,Daniel Barrett,8366,Refrigerator,2da1a74c-f94d-4cd1-baa3-6d8d707d0440,Home Appliances,14,306.4,426.3,5968.2,1678.6,1188.07,PayPal,Returned,USA,Retail Store
+92,2021-11-14,Daniel Barrett,4614,Stuffed Animal,4afac8c2-2e4c-4d6f-8f76-e4321ea23a47,Toys,19,368.99,605.15,11497.85,4487.04,2003.75,PayPal,Not Returned,Canada,Online
+93,2022-05-15,Emily Rice,2733,Biography,e1884b9f-04b0-4d39-8356-2f1689b3e8eb,Books,3,394.66,517.16,1551.48,367.5,449.22,Credit Card,Returned,Brazil,Retail Store
+94,2024-03-11,Phillip Brooks,3067,Toy Train,b04a3fa4-0ffd-4195-8562-7eed3baceeff,Toys,17,79.66,117.75,2001.75,647.53,291.92,Cash,Not Returned,Australia,Online
+95,2024-06-09,Wanda Jackson,3586,Coffee,5ede0b90-eb5c-4821-a626-255631cb009f,Groceries,8,93.7,186.83,1494.64,745.04,212.42,PayPal,Returned,France,Retail Store
+96,2023-07-08,Bruce Bruce,4220,Jeans,39253a60-8c0f-43b4-b6c7-f83139e92e11,Clothing,20,206.17,361.27,7225.4,3102.0,2018.65,Bank Transfer,Not Returned,Japan,Retail Store
+97,2021-01-12,Sara Cohen,6267,T-Shirt,80001a2e-0e56-4e96-bd62-102206c80d65,Clothing,18,56.64,106.39,1915.02,895.5,353.8,PayPal,Not Returned,Italy,Online
+98,2023-01-22,Joshua Gray,8979,Chair,6d0cbf0e-4b58-4bc9-8a16-d17c9af25f74,Furniture,13,157.22,301.84,3923.92,1880.06,987.72,Bank Transfer,Returned,Germany,Online
+99,2023-02-18,Desiree Moore,8577,Cheese,c123fe3b-740f-4cf3-9db3-36722ef19c97,Groceries,7,192.8,361.66,2531.62,1182.02,263.51,Cash,Not Returned,France,Retail Store
+100,2021-08-03,Patricia Smith,5763,Raincoat,20955429-4273-49c9-9e6d-99cb2f7b5c28,Clothing,10,92.07,183.16,1831.6,910.9,165.33,Bank Transfer,Not Returned,India,Retail Store
+101,2020-04-16,Phillip Brooks,3865,Camera,0a39b005-9794-4b5a-bd7f-e39990a5a389,Electronics,16,116.76,184.92,2958.72,1090.56,341.11,PayPal,Not Returned,USA,Online
+102,2021-08-16,Joshua Gray,2837,Yo-Yo,ba37fc5a-4d1d-47c2-a2cc-aefd32f386bf,Toys,4,22.45,31.66,126.64,36.84,20.56,PayPal,Returned,France,Retail Store
+103,2022-05-19,Joshua Gray,5837,Fantasy Series,491bdd4b-d57a-4fa8-809b-77c38937ed7a,Books,13,370.05,529.73,6886.49,2075.84,1593.63,Cash,Returned,France,Retail Store
+104,2023-03-21,Jacob Washington,7980,Poetry Collection,27285f38-7dc2-489d-acd9-aa4c898e7eee,Books,3,385.01,644.72,1934.16,779.13,336.31,Bank Transfer,Not Returned,Canada,Online
+105,2022-04-09,Jessica Lewis,7509,Vacuum Cleaner,22adee92-62b2-46c2-b968-fd246c7c8fb2,Home Appliances,13,92.83,112.77,1466.01,259.22,71.09,Credit Card,Returned,Brazil,Retail Store
+106,2023-03-11,Wanda Jackson,1872,Sneakers,98eaa43e-113d-41e7-b9fa-78a7d18926a0,Clothing,4,488.93,860.73,3442.92,1487.2,277.48,Credit Card,Returned,Italy,Online
+107,2023-05-02,Wanda Jackson,3074,Heater,bf21e4a1-e31a-46bc-91b7-e657ccf54cb7,Home Appliances,18,452.69,841.64,15149.52,7001.1,734.33,Debit Card,Returned,Brazil,Online
+108,2024-11-02,Jessica Lewis,8010,Sofa,02b9fdd1-24f7-48d4-b365-16b57e5c29ad,Furniture,4,146.62,290.65,1162.6,576.12,18.42,Credit Card,Returned,USA,Online
+109,2023-12-25,Emily Rice,5295,Scarf,f315d988-76cd-4a9d-85e4-d88d99203f6e,Clothing,20,465.08,579.36,11587.2,2285.6,47.11,Bank Transfer,Not Returned,France,Retail Store
+110,2020-03-14,Phillip Brooks,9267,Fantasy Series,41a82ed6-17c5-4006-9ace-bf98f51d24d4,Books,7,98.43,126.57,885.99,196.98,86.94,PayPal,Returned,Italy,Online
+111,2024-10-10,Jennifer George,2521,Bookshelf,dd978b31-b646-424f-b0c4-91df90596966,Furniture,1,297.65,441.17,441.17,143.52,129.84,Bank Transfer,Returned,Japan,Online
+112,2020-02-09,Joshua Gray,2005,Laptop,98493324-96ad-4759-ac06-88f6bb5ce97a,Electronics,11,254.57,494.78,5442.58,2642.31,477.32,Credit Card,Returned,Brazil,Retail Store
+113,2020-04-17,Sara Cohen,6867,Coffee Maker,445ee764-be72-451e-88cf-3be0f3a6372e,Home Appliances,7,405.87,811.04,5677.28,2836.19,57.41,Debit Card,Returned,Italy,Online
+114,2021-03-07,Jessica Lewis,7373,Desk,945fd856-e368-4b48-918b-e065bde680a6,Furniture,2,99.49,182.72,365.44,166.46,59.85,PayPal,Returned,South Africa,Retail Store
+115,2022-01-02,Mallory Johnson,1093,Microwave,400df2d9-0a00-4127-a6c9-1e762c5944e1,Home Appliances,20,257.55,454.88,9097.6,3946.6,1000.69,Debit Card,Returned,India,Retail Store
+116,2022-07-07,Gina Little,2556,Cap,0f0cbd80-ae5a-4e5e-861e-3adc09e0ddb2,Clothing,6,378.22,646.96,3881.76,1612.44,494.72,Cash,Not Returned,France,Online
+117,2024-11-14,Jennifer Ryan,6973,Air Conditioner,2a93bf8e-46db-4dd6-b9b2-9e8e31c04108,Home Appliances,19,170.05,326.62,6205.78,2974.83,1387.91,PayPal,Not Returned,France,Retail Store
+118,2021-04-19,Alexandra Woods,7496,Coffee Maker,82bc0f46-36fd-46f0-b7c2-c9d5b5779063,Home Appliances,7,439.13,741.71,5191.97,2118.06,512.84,PayPal,Not Returned,USA,Online
+119,2020-05-23,Brenda Williams,1746,Cookbook,89e6f027-798e-4d9e-924c-7d7e44b6f360,Books,15,161.81,302.42,4536.3,2109.15,227.48,Bank Transfer,Returned,Japan,Online
+120,2022-09-26,Jessica Lewis,4811,Heater,6caf1775-0be5-4fe0-a43e-a8739e87eab0,Home Appliances,3,213.72,392.46,1177.38,536.22,70.96,Credit Card,Not Returned,Japan,Retail Store
+121,2024-08-14,Brenda Williams,4460,Tablet,5e5570ba-3e62-4295-9698-ad8c141807fc,Electronics,12,337.06,415.4,4984.8,940.08,363.91,Debit Card,Returned,India,Retail Store
+122,2021-01-10,Harold Mason,4869,Table,d4cad7a8-699d-44b0-ad7b-3874217953a0,Furniture,6,469.82,577.81,3466.86,647.94,792.49,Credit Card,Not Returned,France,Online
+123,2020-03-01,Phillip Brooks,6880,Fruits,0397dc57-ba92-42e0-a88c-3f3b84c8e2f9,Groceries,19,86.54,125.61,2386.59,742.33,40.93,PayPal,Not Returned,Germany,Retail Store
+124,2021-07-16,Alexandra Woods,3519,Doll,198456b0-3cad-4bea-b028-5ea14f1f520a,Toys,9,128.16,178.73,1608.57,455.13,18.02,Bank Transfer,Not Returned,Italy,Online
+125,2021-07-01,Ryan Anderson,2926,Dining Set,c4855722-b7a5-40fc-8e46-33970b218432,Furniture,8,374.3,462.03,3696.24,701.84,354.13,PayPal,Returned,South Africa,Retail Store
+126,2022-06-14,Joshua Gray,2954,Dress,b1580c84-fe27-446a-adc2-e2f7c6da4f8b,Clothing,7,225.41,339.22,2374.54,796.67,87.22,Credit Card,Not Returned,Italy,Retail Store
+127,2024-07-11,Brenda Williams,2852,Camera,da02bdf5-10fc-48e5-bf27-a460d12b358e,Electronics,9,219.56,317.23,2855.07,879.03,588.26,Debit Card,Not Returned,Brazil,Retail Store
+128,2022-11-12,Daniel Barrett,9899,Camera,27716116-bc8a-483e-95be-77052f0fbf27,Electronics,2,16.08,29.79,59.58,27.42,9.29,Bank Transfer,Returned,Canada,Online
+129,2020-12-26,Jessica Lewis,1619,Sweater,726a0d84-3f9b-4f3e-8f43-1f07c7356739,Clothing,17,102.54,153.18,2604.06,860.88,246.56,Debit Card,Returned,Australia,Retail Store
+130,2020-05-08,Jessica Miles,8911,Monitor,69792c78-4f17-4e9e-acc6-1ca98825a4c8,Electronics,17,477.41,924.36,15714.12,7598.15,4489.46,Cash,Returned,India,Retail Store
+131,2024-02-01,Tina Mccoy,2904,Self-Help Book,fb94eb03-397b-4a46-87dc-ec27fc62bd08,Books,11,315.53,598.0,6578.0,3107.17,1586.1,Debit Card,Not Returned,Canada,Retail Store
+132,2022-07-26,Alexandra Woods,6270,Puzzle,cd2cb15f-c6f1-4095-87a2-b558012f895d,Toys,16,134.51,204.35,3269.6,1117.44,932.28,PayPal,Returned,India,Retail Store
+133,2024-02-27,Phillip Brooks,8026,Tablet,6533dee2-bcce-4ba5-8b37-cead193168ef,Electronics,10,51.26,100.12,1001.2,488.6,203.2,Debit Card,Returned,Italy,Retail Store
+134,2023-06-02,Harold Mason,6456,Yo-Yo,d4e1d418-8736-4d95-9423-95a7f27d2c43,Toys,6,437.94,527.22,3163.32,535.68,834.74,Cash,Not Returned,Australia,Online
+135,2021-08-04,Harold Mason,2809,Vacuum Cleaner,b294e63f-8092-4ea8-a0d1-d82970790ac1,Home Appliances,6,180.19,254.94,1529.64,448.5,74.46,Debit Card,Returned,Japan,Retail Store
+136,2021-07-08,James Proctor,6379,Jacket,3731bfb4-5b07-4a85-900f-9dbccfa03a44,Clothing,1,154.82,246.79,246.79,91.97,14.74,Bank Transfer,Not Returned,South Africa,Retail Store
+137,2023-08-04,Mallory Johnson,1808,Jeans,64f751a4-b086-425d-b9f2-014aa77c0777,Clothing,9,319.8,392.47,3532.23,654.03,996.48,Cash,Returned,Brazil,Online
+138,2022-08-21,Jacob Washington,5036,Table,8237e27d-d3f4-493a-a5d6-5526c02f6a57,Furniture,3,369.45,669.2,2007.6,899.25,223.53,Debit Card,Not Returned,USA,Retail Store
+139,2024-09-12,Nicole Jones DDS,3682,Desk,6497ceb3-3347-4a43-b279-1312c1542a93,Furniture,4,447.3,768.44,3073.76,1284.56,302.14,Credit Card,Returned,Brazil,Retail Store
+140,2024-02-04,Phillip Brooks,2553,Table,257677de-49f7-4bd3-88e8-b3bb6fc4c19c,Furniture,18,126.19,184.95,3329.1,1057.68,796.57,Cash,Not Returned,South Africa,Online
+141,2022-08-09,Kelly Ryan,6353,Science Textbook,f3ffe916-7d6b-402d-aee1-2ab22ffbb9c0,Books,11,167.03,256.52,2821.72,984.39,575.9,PayPal,Returned,Canada,Retail Store
+142,2022-01-06,Brenda Williams,1294,Science Textbook,54556eeb-08b8-4c16-8d5e-90b06093a4f9,Books,1,489.48,954.33,954.33,464.85,285.77,Debit Card,Returned,USA,Online
+143,2024-04-10,Jasmin Thomas,8206,Cereal,63135595-0e89-4620-a338-e5df29564805,Groceries,14,43.84,54.13,757.82,144.06,206.43,Bank Transfer,Returned,USA,Retail Store
+144,2022-03-19,Patricia Smith,4244,Washing Machine,878ce629-61a5-4704-9010-2289d7149f24,Home Appliances,3,257.1,320.46,961.38,190.08,195.48,Debit Card,Not Returned,South Africa,Online
+145,2024-03-10,Patricia Smith,2043,Cap,c233186d-d52b-4613-b059-cb4b4805fca4,Clothing,1,431.41,803.63,803.63,372.22,154.67,Bank Transfer,Returned,Australia,Online
+146,2024-09-22,Gina Little,5236,Toy Train,99312e41-e219-41cb-b291-4189fee40762,Toys,17,483.07,689.44,11720.48,3508.29,574.52,Credit Card,Returned,Germany,Online
+147,2021-02-07,Mallory Johnson,6526,Playset,27dbcc79-5683-42b5-9f62-8f6c66731d70,Toys,11,58.46,90.71,997.81,354.75,229.06,Cash,Returned,France,Online
+148,2022-10-09,Jennifer George,8277,Cereal,a00f7602-fa16-4439-80b2-cfbf82418f24,Groceries,18,44.54,55.51,999.18,197.46,235.14,Debit Card,Not Returned,Italy,Retail Store
+149,2021-07-16,Brenda Williams,4111,Juice,d2742a69-c1b7-406a-87d5-d0fa9f95d714,Groceries,20,166.91,318.94,6378.8,3040.6,832.94,Cash,Returned,Australia,Retail Store
+150,2022-02-19,Wanda Jackson,7787,Cereal,6c70bad0-c840-4607-ab6b-ce8a50968e57,Groceries,3,198.73,335.94,1007.82,411.63,287.94,Debit Card,Returned,South Africa,Online
+151,2020-11-08,Joseph Thompson,5400,Raincoat,036a7aeb-c50b-4725-9e25-722d846f5a94,Clothing,12,288.36,549.25,6591.0,3130.68,288.62,Bank Transfer,Not Returned,Australia,Retail Store
+152,2020-04-02,Wanda Jackson,8228,Scarf,789f5724-614c-48e8-a50e-101893c2c7e0,Clothing,3,315.83,532.0,1596.0,648.51,301.41,PayPal,Returned,USA,Retail Store
+153,2023-09-23,Jacob Washington,8218,Scarf,7af8d46c-d34c-4234-bce2-6e99bf430230,Clothing,4,231.34,417.26,1669.04,743.68,368.3,Debit Card,Not Returned,France,Online
+154,2020-02-25,Nicole Jones DDS,7168,Cookbook,eb5b0a16-e88e-4c78-bc45-e66346525be4,Books,9,271.24,534.72,4812.48,2371.32,909.96,Bank Transfer,Returned,Australia,Retail Store
+155,2024-06-02,Jasmin Thomas,8785,Fiction Novel,2479ebad-6bbe-4a86-904a-3821bfdb9490,Books,11,370.76,647.42,7121.62,3043.26,828.3,Cash,Not Returned,India,Online
+156,2023-03-06,Emily Rice,3681,Science Textbook,559a8880-1698-4073-90cb-46b8021e5f1a,Books,18,176.76,219.94,3958.92,777.24,822.93,PayPal,Returned,Brazil,Retail Store
+157,2021-02-19,Mallory Johnson,3982,Heater,c657fc60-9f28-429d-b878-d7e504cf0336,Home Appliances,3,342.19,489.74,1469.22,442.65,81.71,Bank Transfer,Not Returned,Australia,Online
+158,2022-03-24,Kelly Ryan,9233,Toaster,fa2a2e4c-3514-4b1b-8613-afa2afe5f692,Home Appliances,4,224.35,425.98,1703.92,806.52,121.38,Cash,Not Returned,USA,Retail Store
+159,2023-01-22,Mallory Johnson,3466,Biography,f277e61e-39dd-4bcc-bf07-208771bb382c,Books,4,20.42,26.75,107.0,25.32,13.08,Credit Card,Not Returned,France,Retail Store
+160,2023-01-19,James Proctor,9574,Gaming Console,18c3f145-4028-468e-8809-a4dcd0ecf88e,Electronics,8,414.36,692.2,5537.6,2222.72,67.06,PayPal,Returned,Japan,Retail Store
+161,2022-01-20,Jacob Washington,9842,Coffee Maker,cd85ff45-b89c-4858-a4c0-787a1d94002d,Home Appliances,12,265.81,359.24,4310.88,1121.16,177.92,PayPal,Returned,Japan,Retail Store
+162,2022-03-23,Jessica Lewis,1965,Doll,cd5aa6ac-c9ed-4510-911f-9b406c7aefb8,Toys,10,369.08,522.25,5222.5,1531.7,810.3,Cash,Returned,Australia,Online
+163,2022-08-18,Desiree Moore,7000,Jeans,564b03da-7429-4090-bc0e-4bb24f5f1aba,Clothing,20,175.02,253.3,5066.0,1565.6,1244.28,Bank Transfer,Returned,South Africa,Retail Store
+164,2020-06-10,Kelly Ryan,7556,T-Shirt,ef5ef37b-f4a3-4880-8d77-9f60ea887962,Clothing,11,37.04,70.04,770.44,363.0,104.59,Cash,Not Returned,Germany,Online
+165,2021-10-22,Joseph Thompson,9991,Microwave,8a802cb0-0067-4edf-a7f5-fdf84df30217,Home Appliances,10,177.27,277.61,2776.1,1003.4,623.05,PayPal,Not Returned,India,Online
+166,2021-02-12,Sara Cohen,9003,Headphones,9306f702-f17e-4828-bb57-c1915f8b6817,Electronics,5,197.04,292.0,1460.0,474.8,235.48,Bank Transfer,Not Returned,Brazil,Online
+167,2023-03-02,Bruce Bruce,7913,Table,4fb55f49-d2dd-48b0-9d12-0d8353bd5415,Furniture,18,268.46,333.76,6007.68,1175.4,1087.24,Debit Card,Not Returned,France,Retail Store
+168,2021-08-10,Ryan Anderson,7824,Camera,35410215-1342-4fb1-8c12-ff6bc780a883,Electronics,7,406.28,650.21,4551.47,1707.51,389.82,Cash,Not Returned,Japan,Online
+169,2022-05-15,Sara Cohen,1821,Blender,ccf7871f-541d-4b20-86de-df5c9aad0344,Home Appliances,11,266.45,373.33,4106.63,1175.68,426.18,Credit Card,Not Returned,France,Online
+170,2021-05-26,Jessica Lewis,4041,Playset,7856d4a8-97d6-4b47-a50e-2d1a8507e3d5,Toys,16,198.19,357.15,5714.4,2543.36,356.82,Cash,Not Returned,India,Online
+171,2024-02-23,Mallory Johnson,3321,Gaming Console,b4c60b40-51dd-4214-95c2-2b9bf7a7a95c,Electronics,11,486.46,654.35,7197.85,1846.79,1826.39,Cash,Returned,France,Retail Store
+172,2023-09-01,Gary Petersen,8596,Comic Book,ad32d0e1-bc79-4e92-b7d1-b190303d2a1b,Books,7,244.51,418.17,2927.19,1215.62,227.33,Debit Card,Returned,Italy,Online
+173,2021-08-06,Harold Mason,7133,Comic Book,0f1d90c9-ea17-4abb-8933-cebd8c0d7599,Books,8,192.07,304.02,2432.16,895.6,371.76,Bank Transfer,Not Returned,Germany,Retail Store
+174,2021-08-02,Valerie Brooks,4677,Puzzle,6f2d8692-1fbd-4872-b30b-24564164d025,Toys,10,277.31,374.06,3740.6,967.5,427.55,Debit Card,Not Returned,Germany,Online
+175,2022-09-19,Jessica Lewis,6316,Coffee Maker,693e20ab-d050-4cf8-9356-5d90aa7924f1,Home Appliances,19,108.58,196.57,3734.83,1671.81,595.47,Cash,Returned,Brazil,Retail Store
+176,2024-12-16,Emily Rice,6648,Microwave,e861db3c-09f2-4d52-9840-5e2888194e6a,Home Appliances,15,220.29,366.18,5492.7,2188.35,440.32,Cash,Not Returned,France,Online
+177,2020-09-13,Jessica Miles,2002,RC Car,beb7d86c-a1b5-4e40-8c51-bd9a53b0e6e5,Toys,10,68.73,97.24,972.4,285.1,57.71,Bank Transfer,Returned,Japan,Online
+178,2022-08-06,Margaret Colon,7199,Snacks,6d018f18-6663-45fa-84d5-7395a730b63e,Groceries,5,485.83,947.0,4735.0,2305.85,1399.44,Bank Transfer,Returned,France,Retail Store
+179,2021-08-16,Harold Mason,4434,Science Textbook,65cbd94b-988e-416e-a46f-7f053da71684,Books,15,383.74,754.32,11314.8,5558.7,286.32,Bank Transfer,Returned,South Africa,Online
+180,2023-03-19,Sara Cohen,9898,Coffee Maker,6de806b9-9b1f-4d82-87ed-b926d45b42a8,Home Appliances,12,161.53,298.72,3584.64,1646.28,57.62,Cash,Returned,Brazil,Retail Store
+181,2023-07-02,Tina Mccoy,9617,Coffee Maker,1face180-bc80-4a70-a5a4-1582e5e902cb,Home Appliances,19,163.47,204.32,3882.08,776.15,842.32,Bank Transfer,Not Returned,USA,Online
+182,2023-08-07,Daniel Barrett,5420,Toaster,4f2d0693-38df-4737-a980-63b9047f5ca8,Home Appliances,6,88.2,144.01,864.06,334.86,102.19,Debit Card,Returned,Japan,Retail Store
+183,2024-10-22,Jennifer Ryan,4752,Air Conditioner,188d6d7c-231a-4a1a-a603-144b6b869414,Home Appliances,17,275.44,354.7,6029.9,1347.42,1023.01,Bank Transfer,Not Returned,Brazil,Online
+184,2024-04-25,Joseph Thompson,8050,Fruits,4abd1322-62dc-44ff-b1c0-746f9649a585,Groceries,2,488.61,848.66,1697.32,720.1,453.34,Cash,Returned,Brazil,Retail Store
+185,2024-07-16,Nicole Jones DDS,4694,Bookshelf,ca4fb4be-b2fd-4cd5-9cdb-82ecfb6e2dbd,Furniture,11,96.5,142.13,1563.43,501.93,203.76,Credit Card,Not Returned,France,Retail Store
+186,2023-11-20,Harold Mason,5134,Headphones,050ec86d-9a7f-457d-bedd-159f7af71ce8,Electronics,11,446.67,780.2,8582.2,3668.83,2324.6,Debit Card,Not Returned,Japan,Retail Store
+187,2023-02-04,Phillip Brooks,9618,Chair,1ce3c25b-c96f-464d-8f07-a6e1e62d8d6f,Furniture,6,308.12,521.05,3126.3,1277.58,728.63,Debit Card,Not Returned,Germany,Online
+188,2020-05-26,Kelly Ryan,8405,Smartwatch,d1b97389-6f1f-4ae0-8564-d6f64584b80a,Electronics,1,278.88,349.51,349.51,70.63,70.51,Debit Card,Returned,India,Online
+189,2022-07-06,Jacob Washington,8757,T-Shirt,66e74fd9-5a13-4523-84dd-d6adc35c230b,Clothing,14,195.04,238.53,3339.42,608.86,179.41,Cash,Not Returned,Australia,Retail Store
+190,2020-02-03,Phillip Brooks,8534,Bookshelf,57c891c2-b25f-4d5e-a488-458f0489ceb0,Furniture,17,341.72,494.28,8402.76,2593.52,62.25,Debit Card,Returned,India,Online
+191,2022-11-03,Harold Mason,1292,Laptop,4e32bce6-9774-4564-a48b-121b7014e7a0,Electronics,7,98.98,127.34,891.38,198.52,135.23,Bank Transfer,Returned,Japan,Retail Store
+192,2023-02-03,Patricia Smith,1764,Sofa,10c24465-bfb1-4337-bd85-c4f847a82029,Furniture,3,258.47,368.75,1106.25,330.84,168.61,PayPal,Returned,India,Online
+193,2020-11-09,Kelly Ryan,5726,Bed,680a6f50-b7bf-4a47-8a7b-13173e7fce68,Furniture,13,357.67,429.44,5582.72,933.01,782.6,Cash,Not Returned,Japan,Online
+194,2022-03-22,Joseph Thompson,2268,Yo-Yo,a20925e2-5338-463f-998c-b9773d8759cd,Toys,6,39.75,77.97,467.82,229.32,52.88,Cash,Returned,Brazil,Retail Store
+195,2024-09-02,Jennifer Ryan,7955,Cereal,818a61e4-af6d-40a7-84ce-e89aac7da700,Groceries,14,259.73,387.15,5420.1,1783.88,413.81,PayPal,Not Returned,France,Online
+196,2024-09-07,Alexandra Woods,5361,Stool,b73bf7d1-74f9-45ba-903e-dd2a64dc0286,Furniture,3,179.71,271.86,815.58,276.45,170.3,Bank Transfer,Returned,Germany,Online
+197,2021-11-05,Daniel Barrett,8872,Laptop,47c31d55-b2ea-48f9-bdc2-a5c7f72b15b1,Electronics,18,94.6,118.06,2125.08,422.28,411.87,PayPal,Returned,Canada,Online
+198,2022-03-11,Jacob Washington,7653,Milk,b149256d-17c1-448d-abd9-22924486b0c7,Groceries,1,307.96,373.24,373.24,65.28,74.66,Credit Card,Not Returned,Germany,Online
+199,2021-07-21,Harold Mason,5881,Gaming Console,1db3f651-f466-4506-b762-999318fdc56e,Electronics,19,405.13,627.7,11926.3,4228.83,2722.01,Bank Transfer,Returned,Brazil,Retail Store
+200,2022-05-26,Jasmin Thomas,8739,Keyboard,532420a3-c43c-45c7-a0a9-f7ccd830e567,Electronics,6,363.4,694.22,4165.32,1984.92,654.02,Cash,Returned,India,Online
