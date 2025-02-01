@@ -45,7 +45,6 @@ Software: Microsoft Power BI Desktop
 Python
 Version: Python 3.8 or higher
 Dependencies: Install required libraries using:
-Düzenle
 pip install -r requirements.txt
 SQL
 Database: Any relational database (e.g., PostgreSQL, MySQL, Oracle)
